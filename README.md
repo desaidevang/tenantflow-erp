@@ -186,7 +186,7 @@ A complete walkthrough/demo video of the platform showcasing:
 * Role-based access
 * Multi-tenant functionality
 
-(Video link will be added soon)
+https://www.linkedin.com/posts/devang-desai-_dotnet-aspnetcore-csharp-ugcPost-7461001836481875969-f7J6
 
 ---
 
@@ -218,4 +218,4 @@ This project focused heavily on designing connected business workflows instead o
 
 Backend completed ✅
 Frontend dashboard completed ✅
-Deployment phase in progress 🚀
+
